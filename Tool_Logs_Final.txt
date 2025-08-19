@@ -1,0 +1,6 @@
+=== Tool Logs (Simulated) ===
+
+[ZAP Scan] Potential SQL Injection found at /search?id=
+[Burp Suite] Reflected XSS at /comment?input=
+[Manual Test] HTML Injection successful in feedback form
+[ZAP Scan] IDOR detected at /profile?id=123
